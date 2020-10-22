@@ -90,7 +90,7 @@
     color: var(--primary-text-color);
 }
 
-.list .text {
+.portfolio .text {
     font-size: 16px;
     line-height: 1.87;
     color: var(--secondary-text-color);
