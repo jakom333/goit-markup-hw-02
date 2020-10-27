@@ -85,12 +85,16 @@ footer {
 }
 
 .office {
+    font-style: normal;
+    font-weight: normal;
     font-size: 14px;
     line-height: 1.7;
     color: var(--white-color);
 }
 
 .mail-footer {
+    font-style: normal;
+    font-weight: normal;
     font-size: 14px;
     line-height: 1.7;
     color: var(--secondary-text-color);
@@ -103,6 +107,8 @@ footer {
 }
 
 .tel-footer {
+    font-style: normal;
+    font-weight: normal;
     font-size: 14px;
     line-height: 1.7;
     color: var(--secondary-text-color);
